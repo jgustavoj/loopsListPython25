@@ -89,7 +89,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
@@ -111,7 +111,7 @@
         {
             "slug": "02-Loop-list",
             "title": "02-Loop-list",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Loop-list",
             "translations": [
                 "es",
@@ -122,7 +122,7 @@
         {
             "slug": "02.1-Loop-from-the-top",
             "title": "02.1-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-Loop-from-the-top",
             "translations": [
                 "es",
