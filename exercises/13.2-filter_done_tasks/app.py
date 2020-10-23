@@ -13,3 +13,6 @@ tasks = [
 
 #Your code go here:
 
+
+completedTask = list(filter(lambda task: task ["done"], tasks))
+print(completedTask)
